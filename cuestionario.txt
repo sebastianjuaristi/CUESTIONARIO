@@ -1,6 +1,6 @@
 sebastian juaristi 91
        
-1. En tus palabras, ¿Qué es internet?
+1. En tus palabras, ¿Qué es internet? 
 el internet ​ es un conjunto descentralizado de redes de comunicaciones interconectadas, que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyen una red lógica única de alcance mundial
 
 2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
