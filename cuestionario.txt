@@ -5,7 +5,7 @@ el internet ​ es un conjunto descentralizado de redes de comunicaciones interc
 
 2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 Los medios físicos y de propagación de ondas por los que se transmite la información en internet; ondas de radio.
-
+     
 3. ¿Cómo se organiza internet? 
 
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
