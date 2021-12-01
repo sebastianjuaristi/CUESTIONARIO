@@ -1,4 +1,4 @@
-sebastian juaristi 91
+Luis Meza Javier Perez Rocha y Jose nieto
        
 1. En tus palabras, ¿Qué es internet? 
 el internet ​ es un conjunto descentralizado de redes de comunicaciones interconectadas, que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyen una red lógica única de alcance mundial
